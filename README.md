@@ -9,3 +9,9 @@ Applying machine learning to analyze solar cell performance and predict efficien
 ## Model File
 Due to GitHub size limits, the full [`pickle`](pickle) file (~100 GB) is hosted externally:
 [Download from Google Drive](https://drive.google.com/file/d/1PpUy9nkPIpzvdHHDD-el9eJ5A4c_8k4o/view?usp=drive_link)
+
+## Credits & Resources
+
+This project builds on and references the following repositories and resources:
+- alvarovm/solarcelldata — https://github.com/alvarovm/solarcelldata
+- edbeard/chemdataextractor-uvvis2018 — https://github.com/edbeard/chemdataextractor-uvvis2018
