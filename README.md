@@ -1,6 +1,8 @@
 # SolarCell-ML-Applications
 Applying machine learning to analyze solar cell performance and predict efficiency.
 
+<img width="240" height="165" alt="Image" src="https://github.com/user-attachments/assets/c7703d69-0aa1-423f-8bfa-69cf0e84bb35" />
+
 ## Notebooks
 [`notebooks`](notebooks) 
 
