@@ -1,10 +1,10 @@
 # SolarCell-ML-Applications
 Applying machine learning to analyze solar cell performance and predict efficiency.
 
-##Notebooks
+## Notebooks
 [`notebooks`](notebooks) 
 
-##Checkpoints
+## Checkpoints
 [`checkpoints`](checkpoints)
 
 ## Model File
