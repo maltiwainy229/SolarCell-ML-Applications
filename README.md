@@ -18,6 +18,10 @@ git clone https://github.com/maltiwainy229/SolarCell-ML-Applications.git
 cd SolarCell-ML-Applications
 ```
 
+## Environments
+
+The [`emvironments`](environments) folder contains environment definitions that let users reproduce the package setup used for running the notebooks.
+
 ## Data
 
 See [`data`](data) for data sources. 
